@@ -1,0 +1,4 @@
+com\gc\mapper\PicMapper.class
+com\gc\service\PicService.class
+com\gc\service\impl\PicserviceImpl.class
+com\gc\controller\PicControler.class
