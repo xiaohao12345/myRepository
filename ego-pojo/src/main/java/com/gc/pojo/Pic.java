@@ -1,6 +1,6 @@
 package com.gc.pojo;
 
-public class Pid {
+public class Pib {
 	private int id;
 	private String path;
 	public int getId() {
