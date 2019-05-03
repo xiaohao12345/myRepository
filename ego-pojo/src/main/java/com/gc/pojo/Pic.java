@@ -1,6 +1,6 @@
 package com.gc.pojo;
 
-public class Pic {
+public class Pie {
 	private int id;
 	private String path;
 	public int getId() {
